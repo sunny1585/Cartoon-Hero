@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+
+header{
+    background-image:url("https://images.hdqwalls.com/download/red-black-texture-sd-1920x1080.jpg"); 
+    background-repeat: no-repeat;
+    background-width: 100%;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+	font-size: 65px;
+}
+
+h1, h2{
+	font-family: 'Metal Mania', cursive;
+}
+
+header img{
+	size: 300px 300px;
+	border-radius: 100px;
+	border: 10px solid white;
+}
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: firebrick;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: firebrick;
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+}
+
+footer{
+	background-color: darkred;
+	text-align: center;
+	padding: 30px;
+	color: white;
+	font-size: 16px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+	text-decoration: underline;
+	font-size: 16px;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	font-size: 16px;
+	margin-top: 0;
+}
